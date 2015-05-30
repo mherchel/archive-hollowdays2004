@@ -76,5 +76,13 @@ function MM_displayStatusMsg(msgStr) { //v1.0
       <area shape="rect" coords="653,182,741,194" href="/list/">
       <area shape="rect" coords="-57,-25,341,111" href="/">
     </map>
-<!--#include file="../../global/footer.shtml" -->
+<table width="740" border="0" cellpadding="0" cellspacing="0" bgcolor="#1F4B49" class="main">
+  <tr> 
+    <td width="740" height="15" valign="top" bgcolor="#1F4B49"><div align="right">Website 
+        Design: <a href="http://www.floridawebtech.com" target="_blank">Florida 
+        Web Technologies</a> :: Copyright &copy;2002-2003 Hollow Days :: All Rights 
+        Reserved &nbsp;&nbsp;</div></td>
+  </tr>
+</table>
+
 </hmtl>

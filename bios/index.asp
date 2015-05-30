@@ -102,7 +102,15 @@ function MM_displayStatusMsg(msgStr) { //v1.0
     <td width="2"></td>
   </tr>
 </table>
-<!--#include file="../global/footer.shtml" -->
+<table width="740" border="0" cellpadding="0" cellspacing="0" bgcolor="#1F4B49" class="main">
+  <tr> 
+    <td width="740" height="15" valign="top" bgcolor="#1F4B49"><div align="right">Website 
+        Design: <a href="http://www.floridawebtech.com" target="_blank">Florida 
+        Web Technologies</a> :: Copyright &copy;2002-2003 Hollow Days :: All Rights 
+        Reserved &nbsp;&nbsp;</div></td>
+  </tr>
+</table>
+
 <map name="Map">
   <area shape="rect" coords="2,5,126,116" href="luke/" alt="Luke">
   <area shape="rect" coords="191,7,310,117" href="joe/" alt="Joe">
