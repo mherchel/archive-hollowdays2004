@@ -1,0 +1,35 @@
+.contact {
+	color: #FFFFFF;
+	border: none;
+	width: 300px;
+	font-weight: bolder;
+	background-color: #1F4B49;
+	background-image: url(/global/formback.jpg);
+}
+.listcontact {
+	color: #FFFFFF;
+	border: none;
+	font-weight: bolder;
+	background-color: #3F9A96;
+	background-image: url(/global/formback.jpg);
+}
+.largecontact {
+	color: #FFFFFF;
+	height: 50px;
+	width: 400px;
+	font-weight: bolder;
+	border: none;
+	background-color: #1F4B49;
+	background-image: url(formback.jpg);
+}
+.submit {
+	color: #FFFFFF;
+	border: 2px ridge #388985;
+	clear: right;
+	float: left;
+	font-size: 14px;
+	font-weight: bolder;
+	background-position: right top;
+	background-color: #1F4B49;
+
+}

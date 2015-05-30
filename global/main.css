@@ -1,0 +1,69 @@
+.main {
+	font-size: 13px;
+
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+
+}
+a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #C2FEF7;
+	text-decoration: underline;
+}
+a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.news {
+	border-right-width: medium;
+	border-top-style: none;
+	border-right-style: dotted;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-right-color: #999999;
+	width: 244px;
+
+}
+.12text {
+	font-size: 12px;
+	color: #CCCCCC;
+}
+.font16 {
+	font-size: 16px;
+}
+.mp3s {
+	border-right-width: 3px;
+	border-right-style: solid;
+	border-right-color: #1F4B49;
+}
+.submit-button {
+	color: #FFFFFF;
+	background-color: #1F4B49;
+}
+.textbox {
+	border: none;
+	color: #1F4B49;
+	background-color: #FFFFFF;
+}
+.top-back-border {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000000;
+
+}
+.13text {
+	font-size: 13px;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+
+}
+.noborder {
+	border: 0px none;
+}
